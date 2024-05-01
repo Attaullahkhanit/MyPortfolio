@@ -1,9 +1,9 @@
 import {React, useState, useEffect} from 'react';
 import Image from 'next/image';
-import Link from 'next/Link';
 import { AiOutlineMenu, AiOutlineClose, AiOutlineMail } from 'react-icons/ai';
 import {FaGithub, FaLinkedinIn, } from 'react-icons/fa';
 import {BsFillPersonLinesFill} from 'react-icons/bs'; 
+import Link from 'next/Link';
 
 function Navbar() {
   const [nav, setNav] = useState(false);

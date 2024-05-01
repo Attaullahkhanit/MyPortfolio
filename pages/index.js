@@ -1,14 +1,9 @@
-import Head from 'next/head'
-import About from '../components/About'
-import Contact from '../components/Contact'
-import Main from '../components/Main'
-import Project from '../components/Project'
-import Skills from '../components/Skills'
-//import Image from 'next/image'
-//import styles from '../styles/Home.module.css'
-//Font Awesome Icons
-//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
+import Head from 'next/head';
+import Contact from '../components/Contact';
+import Main from '../components/Main';
+import Project from '../components/Project';
+import Skills from '../components/Skills';
+import About from '../components/About';
 
 export default function Home() {
   return (
