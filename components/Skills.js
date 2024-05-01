@@ -108,7 +108,7 @@ function Skills() {
                         <Image src="/../public/assets/skills/git.png" width='64px' height="64px" alt="/"/>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
-                    <h3 className='mt-0 mb-2 text-3xl font-medium leading-tight'>Git</h3>
+                    <h3 className='mt-0 mb-2 text-3xl font-medium leading-tight'>GIT</h3>
                     </div>
                 </div>
             </div>

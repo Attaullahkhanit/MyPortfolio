@@ -26,7 +26,7 @@ function Contact() {
                   <div>
                     <h2 className='py-4 mt-0 mb-2 text-4xl font-bold leading-tight'>Name here</h2>
                     <p>Front-End Developer</p>
-                    <p className='py-4'>I am available for full time positions. Contact me and let's talk.</p>
+                    <p className='py-4'>I am available for full time positions. Contact me and lets talk.</p>
                   </div>
                   <div>
                       <p className='pt-8 uppercase'>Connect With Me</p>

@@ -26,7 +26,7 @@ function Navbar() {
     <>
     <div className={shadow ? 'fixed w-full h-20 shadow-xl z-[100]' : 'fixed w-full h-20 z-[100]'}>
       <div className='flex items-center justify-between w-full h-full px-2 2xl:px-16'>
-                <Image src='/../public/assets/logotransp.png' alt='/' width='125' height='50' className='content-start px-0 mr-auto'/>
+            <Image src='/../public/assets/logotransp.png' alt='/' width='125' height='50' className='content-start px-0 mr-auto'/>
         <div>
           {/* hello testing */}
           <ul className='hidden md:flex'>
@@ -66,7 +66,7 @@ function Navbar() {
               </div>
             </div>
             <div className='my-4 border-b border-gray-300'>
-              <p className='w-[85%] md:w-[90%] py-4'>Let's build something legendary together </p>
+              <p className='w-[85%] md:w-[90%] py-4'>Lets build something legendary together </p>
             </div>
           </div>
           <div className='flex flex-col py-4'>
@@ -88,7 +88,7 @@ function Navbar() {
               </Link>
             </ul>
             <div className='pt-40'>
-              <p className='uppercase tracking-widest text-[#5651e5]'>Let's Connect</p>
+              <p className='uppercase tracking-widest text-[#5651e5]'>Lets Connect</p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <div className='p-3 duration-300 ease-in rounded-full shadow-lg cursor-pointer shadow-gray-400 hover:scale-105'>
                   <FaLinkedinIn/>

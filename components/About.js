@@ -9,7 +9,7 @@ function About() {
             <div className='col-span-2'>
                 <p className='text-xl tracking-widest uppercase text-[#5651e5]'>About</p>
                 <h2 className='py-4 mt-0 mb-2 text-4xl font-medium leading-tight'>Who I Am</h2>
-                <p className='py-2 text-gray-600'>// I am Not Your Normal Developer</p>
+                <p className='py-2 text-gray-600'> I am Not Your Normal Developer</p>
                 <p className='py-2 text-gray-600'>I have spent the 3 years in the fire service working as a professional firefighter & paramadic. I have always had 
                     a knack for technology and working with computers. in 2020 i started working with HTML5 & CSS3 to make some minor edits 
                     on a small business website that i was operating. What I thought was just a few small edits turned into a love for programing
