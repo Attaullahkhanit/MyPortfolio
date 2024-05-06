@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 
-
 function About() {
   return (
     <div id='about' className='flex items-center w-full h-full p-2 py-16 md:'>
